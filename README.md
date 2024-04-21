@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://fastapi.tiangolo.com"><img src="https://github.com/tiangolo/fastapi/assets/78873223/7def16ff-82c3-4fc6-88a7-6274c487b2b1" alt="FastAPI"></a>
+  <a href="https://fastapi.tiangolo.com"><img src="https://github.com/devfinwiz/fastapi/assets/78873223/7ec2d278-620c-47c6-81ee-ba252a2b2b89" alt="FastAPI"></a>
 </p>
 <p align="center" style="font-size: 20px;">
     <em>FastAPI framework, high performance, easy to learn, fast to code, ready for production</em>
@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://github.com/tiangolo/fastapi/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster" target="_blank">
     <img src="https://github.com/tiangolo/fastapi/workflows/Test/badge.svg?event=push&branch=master" alt="Test">
+
 </a>
 <a href="https://coverage-badge.samuelcolvin.workers.dev/redirect/tiangolo/fastapi" target="_blank">
     <img src="https://coverage-badge.samuelcolvin.workers.dev/tiangolo/fastapi.svg" alt="Coverage">
